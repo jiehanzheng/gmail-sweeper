@@ -1,0 +1,8 @@
+cloud.google.com/go v0.26.0 h1:e0WKqKTd5BnrG8aKH3J3h+QvEIQtSUcf2n5UZ5ZgLtQ=
+cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
+golang.org/x/net v0.0.0-20180811021610-c39426892332 h1:efGso+ep0DjyCBJPjvoz0HI6UldX4Md2F1rZFe1ir0E=
+golang.org/x/net v0.0.0-20180811021610-c39426892332/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
+golang.org/x/oauth2 v0.0.0-20180724155351-3d292e4d0cdc h1:3ElrZeO6IBP+M8kgu5YFwRo92Gqr+zBg3aooYQ6ziqU=
+golang.org/x/oauth2 v0.0.0-20180724155351-3d292e4d0cdc/go.mod h1:N/0e6XlmueqKjAGxoOufVs8QHGRruUQn6yWY3a++T0U=
+google.golang.org/api v0.0.0-20180811000443-0aa0a1f2c0c4 h1:h5Cb0XTGJjdDIlK7tJw+eJm9iH3mLDMJWbBlLHRLqvo=
+google.golang.org/api v0.0.0-20180811000443-0aa0a1f2c0c4/go.mod h1:4mhQ8q/RsB7i+udVvVy5NUi08OU8ZlA0gRVgrF7VFY0=

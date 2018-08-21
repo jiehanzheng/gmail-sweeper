@@ -10,3 +10,9 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Project-specific
+credentials.json
+token.json
+gmail-sweeper
+*.log
