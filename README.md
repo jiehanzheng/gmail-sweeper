@@ -32,7 +32,7 @@ You will be prompted to set up your `token.json`.  Follow the on-screen instruct
 
 Here is an example crontab:
 ```
-37 * * * * /home/jiehan/gmail-sweeper/gmail-sweeper 2>&1 | tee /home/jiehan/gmail-sweeper/last-run.log
+37 * * * * /bin/bash -c 'cd /home/jiehan/gmail-sweeper/; ./gmail-sweeper 2>&1 | tee last-run.log'
 ```
 
 ## New to Go; no shaming deal
